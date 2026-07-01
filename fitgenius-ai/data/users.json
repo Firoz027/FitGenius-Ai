@@ -1,0 +1,184 @@
+{
+  "guest": {
+    "age": 21,
+    "sex": "Female",
+    "height_cm": 163,
+    "weight_kg": 52.0,
+    "goal": "Gain",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "Vasunder": {
+    "age": 20,
+    "sex": "Male",
+    "height_cm": 172,
+    "weight_kg": 60.0,
+    "goal": "Gain",
+    "activity": "active",
+    "diet_pref": "Vegan",
+    "allergies": ""
+  },
+  "Shreiya": {
+    "age": 21,
+    "sex": "Female",
+    "height_cm": 165,
+    "weight_kg": 50.0,
+    "goal": "Maintain",
+    "activity": "sedentary",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "ajay": {
+    "age": 30,
+    "sex": "Male",
+    "height_cm": 170,
+    "weight_kg": 60.0,
+    "goal": "Gain",
+    "activity": "light",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "Aryan": {
+    "username": "Aryan",
+    "age": 25,
+    "sex": "male",
+    "height_cm": 170.0,
+    "weight_kg": 70.0,
+    "goal": "maintain",
+    "activity": "sedentary",
+    "diet_pref": "none",
+    "allergies": [],
+    "user_replacements": []
+  },
+  "Nikhil": {
+    "age": 22,
+    "sex": "Male",
+    "height_cm": 174,
+    "weight_kg": 80.03000000000002,
+    "goal": "Maintain",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "Hey": {
+    "age": 22,
+    "sex": "Male",
+    "height_cm": 175,
+    "weight_kg": 80.0,
+    "goal": "Lose",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "aryan": {
+    "age": 22,
+    "sex": "Male",
+    "height_cm": 174,
+    "weight_kg": 83.0,
+    "goal": "Lose",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "shreiya": {
+    "age": 21,
+    "sex": "Female",
+    "height_cm": 165,
+    "weight_kg": 50.0,
+    "goal": "Gain",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "Aryan ": {
+    "age": 22,
+    "sex": "Male",
+    "height_cm": 174,
+    "weight_kg": 80.03000000000002,
+    "goal": "Lose",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "saurabh": {
+    "age": 22,
+    "sex": "Male",
+    "height_cm": 174,
+    "weight_kg": 80.03000000000002,
+    "goal": "Lose",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": "cold,cough"
+  },
+  "Mansoor": {
+    "age": 26,
+    "sex": "Male",
+    "height_cm": 173,
+    "weight_kg": 63.0,
+    "goal": "Gain",
+    "activity": "sedentary",
+    "diet_pref": "None",
+    "allergies": ""
+  },
+  "Saurabh": {
+    "age": 21,
+    "sex": "Male",
+    "height_cm": 160,
+    "weight_kg": 55.0,
+    "goal": "Gain",
+    "activity": "sedentary",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "Firoz": {
+    "age": 21,
+    "sex": "Male",
+    "height_cm": 168,
+    "weight_kg": 61.0,
+    "goal": "Gain",
+    "activity": "sedentary",
+    "diet_pref": "None",
+    "allergies": "dairy"
+  },
+  "Saurabh Choudhary": {
+    "age": 21,
+    "sex": "Male",
+    "height_cm": 160,
+    "weight_kg": 55.0,
+    "goal": "Gain",
+    "activity": "sedentary",
+    "diet_pref": "Eggiterian",
+    "allergies": ""
+  },
+  "": {
+    "age": 21,
+    "sex": "Female",
+    "height_cm": 163,
+    "weight_kg": 52.0,
+    "goal": "Gain",
+    "activity": "moderate",
+    "diet_pref": "Vegetarian",
+    "allergies": ""
+  },
+  "Firoz Shaik": {
+    "age": 21,
+    "sex": "Male",
+    "height_cm": 168,
+    "weight_kg": 61.0,
+    "goal": "Gain",
+    "activity": "sedentary",
+    "diet_pref": "Vegetarian",
+    "allergies": "dairy"
+  },
+  "Shaik": {
+    "age": 21,
+    "sex": "Male",
+    "height_cm": 168,
+    "weight_kg": 61.0,
+    "goal": "Gain",
+    "activity": "sedentary",
+    "diet_pref": "Vegetarian",
+    "allergies": "dairy"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "guest": {
+    "water_ml": 0,
+    "sleep_h": 0,
+    "steps": 0,
+    "mood": [],
+    "streaks": {}
+  }
+}

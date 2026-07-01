@@ -1,0 +1,197 @@
+{
+  "guest": {
+    "2025-11-25": [
+      {
+        "user": "guest",
+        "date": "2025-11-25",
+        "food_id": 2,
+        "name": "Paneer",
+        "grams": 100.0,
+        "kcal": 296.0,
+        "protein_g": 20.0,
+        "carbs_g": 6.1,
+        "fat_g": 22.0
+      },
+      {
+        "user": "guest",
+        "date": "2025-11-25",
+        "food_id": 2,
+        "name": "Paneer",
+        "grams": 100.0,
+        "kcal": 296.0,
+        "protein_g": 20.0,
+        "carbs_g": 6.1,
+        "fat_g": 22.0
+      },
+      {
+        "user": "guest",
+        "date": "2025-11-25",
+        "food_id": 13,
+        "name": "FoodItem_13_pepper",
+        "grams": 50.0,
+        "kcal": 170.0,
+        "protein_g": 31.0,
+        "carbs_g": 25.7,
+        "fat_g": 11.2
+      }
+    ],
+    "2025-11-26": [
+      {
+        "user": "guest",
+        "date": "2025-11-26",
+        "food_id": -1,
+        "name": "samosa",
+        "grams": 100.0,
+        "kcal": 250.0,
+        "protein_g": 5.0,
+        "carbs_g": 29.2,
+        "fat_g": 16.7,
+        "note": "estimated_by_gemini"
+      },
+      {
+        "user": "guest",
+        "date": "2025-11-26",
+        "food_id": -1,
+        "name": "pizza",
+        "grams": 100.0,
+        "kcal": 250.0,
+        "protein_g": 10.0,
+        "carbs_g": 29.2,
+        "fat_g": 10.0,
+        "note": "estimated_by_gemini"
+      },
+      {
+        "user": "guest",
+        "date": "2025-11-26",
+        "food_id": -1,
+        "name": "pizza",
+        "grams": 100.0,
+        "kcal": 233.3,
+        "protein_g": 10.0,
+        "carbs_g": 29.2,
+        "fat_g": 10.0,
+        "note": "estimated_by_gemini"
+      }
+    ],
+    "2025-12-03": [
+      {
+        "user": "guest",
+        "date": "2025-12-03",
+        "food_id": -1,
+        "name": "Eggs",
+        "grams": 100.0,
+        "kcal": 156.0,
+        "protein_g": 12.6,
+        "carbs_g": 1.2,
+        "fat_g": 10.6,
+        "note": "estimated_by_gemini"
+      }
+    ]
+  },
+  "Hey": {
+    "2025-11-25": [
+      {
+        "user": "Hey",
+        "date": "2025-11-25",
+        "food_id": 38,
+        "name": "FoodItem_38_butter",
+        "grams": 100.0,
+        "kcal": 570.0,
+        "protein_g": 63.1,
+        "carbs_g": 153.0,
+        "fat_g": 23.0
+      }
+    ]
+  },
+  "aryan": {
+    "2025-11-26": [
+      {
+        "user": "aryan",
+        "date": "2025-11-26",
+        "food_id": 4,
+        "name": "FoodItem_4_honey",
+        "grams": 100.0,
+        "kcal": 280.0,
+        "protein_g": 36.4,
+        "carbs_g": 177.8,
+        "fat_g": 0.4
+      }
+    ]
+  },
+  "Aryan ": {
+    "2025-11-27": [
+      {
+        "user": "Aryan ",
+        "date": "2025-11-27",
+        "food_id": -1,
+        "name": "pizza",
+        "grams": 100.0,
+        "kcal": 241.7,
+        "protein_g": 10.8,
+        "carbs_g": 29.2,
+        "fat_g": 10.0,
+        "note": "estimated_by_gemini"
+      }
+    ]
+  },
+  "Aryan Tutneja": {
+    "2025-11-27": [
+      {
+        "user": "Aryan Tutneja",
+        "date": "2025-11-27",
+        "food_id": -1,
+        "name": "pizza",
+        "grams": 100.0,
+        "kcal": 263.6,
+        "protein_g": 11.8,
+        "carbs_g": 31.8,
+        "fat_g": 10.9,
+        "note": "estimated_by_gemini"
+      }
+    ]
+  },
+  "Saurabh": {
+    "2025-12-04": [
+      {
+        "user": "Saurabh",
+        "date": "2025-12-04",
+        "food_id": -1,
+        "name": "Eggs",
+        "grams": 100.0,
+        "kcal": 155.0,
+        "protein_g": 13.0,
+        "carbs_g": 1.1,
+        "fat_g": 11.0,
+        "note": "ai_estimate"
+      },
+      {
+        "user": "Saurabh",
+        "date": "2025-12-04",
+        "food_id": -1,
+        "name": "Dal",
+        "grams": 200.0,
+        "kcal": 260.0,
+        "protein_g": 16.0,
+        "carbs_g": 36.0,
+        "fat_g": 6.0,
+        "note": "ai_estimate"
+      }
+    ]
+  },
+  "Shaik": {
+    "2025-12-04": [
+      {
+        "user": "Shaik",
+        "date": "2025-12-04",
+        "food_id": -1,
+        "name": "Eggs",
+        "grams": 100.0,
+        "kcal": 155.0,
+        "protein_g": 13.0,
+        "carbs_g": 1.0,
+        "fat_g": 11.0,
+        "note": "ai_estimate"
+      }
+    ]
+  }
+}
